@@ -105,3 +105,13 @@ li {
 .navbar-link:active {
     color: var(--helper);
 }
+
+
+/* ---------------- Resuable Code Section---------------------- */
+
+.section {
+    padding: 9rem 0px;
+}
+
+
+/* ---------------- Hero Section Start---------------------- */
